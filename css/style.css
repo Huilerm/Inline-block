@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textblue {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    font-size: x-small;
+    padding: 20px;
+}
+
+.container {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+.img1 img {
+    width: 100%;
+    margin: 20px;
+}
+
+.img1 {
+    width: 30%;
+    display: inline-block;
+}
+
+.img2 {
+    width: 680px;
+    height: 500px;
+}
+.imgposi{
+    padding-left: 310px;
+}
+
+.inlineblock {
+    width: 100%;
+    display: inline-block;
+}
+
+.text1 {
+    font-size: small;
+    margin: 30px;
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
+.text2 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: x-small;
+}
+
+.text3 {
+    text-align: center;
+    padding: 20px;
+}
+
+.text3 h1 {
+    font-size: medium;
+}
+
+.text3 p {
+    font-size: small;
+}
+
+.todoscinza {
+    margin: 20px;
+}
+
+.todoscinza .cinza h1 {
+    text-align: center;
+    font-size: small;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.todoscinza p {
+    text-align: center;
+    font-size: small;
+    padding-bottom: 10px;
+}
+
+.cinza {
+    display: inline-block;
+    width: 380px;
+    background-color: rgb(226, 219, 219);
+}
